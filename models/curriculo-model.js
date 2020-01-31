@@ -1,7 +1,7 @@
 const data = {
     title: 'Meu currículo',
-    name: 'João Gabriel De Araújo',
-    ocupação: 'Estudante do 3º periodo da Ficr',
+    name: 'João Gabriel de Araújo',
+    profession: 'estudante do 3º da ficr',
     description: 'Experiência em desenvolvimento de single page applications com JavaScript e frameworks JavaScript (já trabalhei com Angular e React), module bundlers, package managers, transpilers (como Babel), pre processadores CSS (Sass e Stylus), task managers, arquitetura CSS (como BEM e SMACSS), Git, SEO, acessibilidade e usabilidade.',
     experience: [{
         company: 'Loggi Tecnologia',
@@ -21,4 +21,3 @@ const data = {
 }
 
 module.exports = data;
-
